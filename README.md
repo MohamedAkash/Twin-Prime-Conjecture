@@ -10,7 +10,7 @@ The Twin Prime Conjecture explores whether there are infinitely many twin prime 
 
 The full project report is available in the PDF file:
 
-- **[Mohamed Akash_twinprime.pdf](https://github.com/MohamedAkash/Twin-Prime-Conjecture/blob/main/Mohamed%20Akash_twinprime.pdf)**
+- **[Twinprime.pdf](https://github.com/MohamedAkash/Twin-Prime-Conjecture/blob/main/Twinprime.pdf)**
 
 This report includes detailed explanations, mathematical analysis, and conclusions related to the conjecture.
 
